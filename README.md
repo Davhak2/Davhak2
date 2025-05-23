@@ -32,7 +32,7 @@
 
 ###
 ### 42 School Stats
-[![davihako's 42 stats](https://badge.mediaplus.ma/Levi/davihako)](https://github.com/oakoudad/badge42)
+[![davihako's 42 stats](https://badge.mediaplus.ma/levi/davihako)](https://github.com/oakoudad/badge42)
 
 ### GitHub Stats
 
